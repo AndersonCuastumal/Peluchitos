@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Peluchitos</string>
+    <string name="title_agregar">Add</string>
+    <string name="title_buscar">Search</string>
+    <string name="title_inventario">List</string>
+    <string name="title_eliminar">Delete</string>
+
+    <string name="Eliminar">Delete</string>
+    <string name="Inventario">List</string>
+    <string name="Buscar">Search</string>
+
+    <string name="eAgregar">Add</string>
+    <string name="eNombre">Name</string>
+    <string name="eId">ID</string>
+    <string name="eCantidad">Amount</string>
+    <string name="eValor">Price</string>
+
+    <string name="tAgregar">Add</string>
+    <string name="tId">ID</string>
+    <string name="tCantidad">Amount</string>
+    <string name="tValor">Price</string>
+
+    <string name="tagregar">Add</string>
+    <string name="tid">ID</string>
+    <string name="tcantidad">Amount</string>
+    <string name="tvalor">Price</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bNew">New peluche</string>
+    <string name="bBuscar">Buscar Peluche</string>
+    <string name="bEliminar">Eliminar Peluche</string>
+    <string name="bInventario">Inventario</string>
+</resources>

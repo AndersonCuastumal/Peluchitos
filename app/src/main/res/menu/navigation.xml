@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_agregar"
+        android:icon="@drawable/home"
+        android:title="@string/title_agregar" />
+
+    <item
+        android:id="@+id/navigation_buscar"
+        android:icon="@drawable/search"
+        android:title="@string/title_buscar" />
+
+    <item
+        android:id="@+id/navigation_inventario"
+        android:icon="@drawable/list"
+        android:title="@string/title_inventario" />
+
+    <item
+        android:id="@+id/navigation_eliminar"
+        android:icon="@drawable/eliminar"
+        android:title="@string/title_eliminar"
+        />
+
+</menu>
